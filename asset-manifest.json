@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/liveweather/static/css/main.d34e2af6.chunk.css",
+    "main.js": "/liveweather/static/js/main.fb465ce2.chunk.js",
+    "main.js.map": "/liveweather/static/js/main.fb465ce2.chunk.js.map",
+    "runtime-main.js": "/liveweather/static/js/runtime-main.f167e047.js",
+    "runtime-main.js.map": "/liveweather/static/js/runtime-main.f167e047.js.map",
+    "static/js/2.47f4f173.chunk.js": "/liveweather/static/js/2.47f4f173.chunk.js",
+    "static/js/2.47f4f173.chunk.js.map": "/liveweather/static/js/2.47f4f173.chunk.js.map",
+    "index.html": "/liveweather/index.html",
+    "static/css/main.d34e2af6.chunk.css.map": "/liveweather/static/css/main.d34e2af6.chunk.css.map",
+    "static/js/2.47f4f173.chunk.js.LICENSE.txt": "/liveweather/static/js/2.47f4f173.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f167e047.js",
+    "static/js/2.47f4f173.chunk.js",
+    "static/css/main.d34e2af6.chunk.css",
+    "static/js/main.fb465ce2.chunk.js"
+  ]
+}
