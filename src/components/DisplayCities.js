@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 
 const DisplayCities = () => {
     const [city, setCity] = useState(null);
-    const [search, setSearch] = useState("mumbai");
+    const [search, setSearch] = useState("london");
 
 
     useEffect(() => {
